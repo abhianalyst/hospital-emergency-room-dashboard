@@ -1,0 +1,15 @@
+# Power BI Auto-Saves
+*.pbix.autosave
+*.tmp
+
+# Excel backups
+~$*
+
+# Windows & system files
+Thumbs.db
+.DS_Store
+
+# Hidden folders
+*/.vs/
+*/.idea/
+*/.vscode/
